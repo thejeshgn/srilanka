@@ -40,7 +40,10 @@ electoralDistrict and electoralDistrictCode parameters
 - Its safe to filter by electoralDistrictCode to get the electoral district. 
 - I have also created a merged file called LKA_electrol_districts.geojson
 
-![merging districts to form electrol districts](http://i.giphy.com/gopCCjGKErDqM.gif)
+![process](https://i.giphy.com/12U5xhpCTfYHFS.gif)
+
+
+![merging districts to form electrol districts](https://i.giphy.com/gopCCjGKErDqM.gif)
 
 According to the constitution the Parliament should consist of 225 seats (members)
 1. 36 seats were allocated to the nine provinces, four each (section 96(4)). A delimitation commission would apportion the four seats between the electoral districts in each province.
